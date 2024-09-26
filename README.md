@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on .. any of my repositories that you find useful. Feel free to put in a pull request!
 - 📫 How to reach me .. `$( echo 'pbagnpg@qnivqpenqqbpx.arg' | tr 'N-ZA-Mn-za-m' 'A-Za-z' )`
 
+My current main software 'hobby project' is vWorkbench, see: [https://davidcraddock.net/vworkbench/](https://davidcraddock.net/vworkbench/)
+
 <!---
 wordswords/wordswords is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
