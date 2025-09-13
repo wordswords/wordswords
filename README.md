@@ -1,8 +1,8 @@
-- 👋 Hi, I’m David Craddock (@wordswords) [https://DavidCraddock.net](https://DavidCraddock.net)
-- 👔 My current Resume/CV.. is here [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
+- 👋 Hi, I’m David Craddock (@wordswords) [https://DavidCraddock.net](https://DavidCraddock.net).
+- 👔 My current Resume/CV.. is here [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html).
 - 👀 I’m interested in .. Cyber Security, GenAI, VIM, DevOps, CLIs, software automation, complex test architecture, Linux.
 - 💞️ I’m looking to collaborate on .. any of my repositories that you find useful. Feel free to put in a pull request!
-- 📫 How to reach me .. send an email to: 3rp2mzocr@mozmail.com
+- 📫 How to reach me .. send an email to: 3rp2mzocr@mozmail.com.
 
 In my professional life, I am attempting to pivot from my previous 20 year software career, in which I reached 'Principal Software Enginer' level, into software-related Cyber Security roles, such as red team, purple team, vuln discovery and security research. If you are in a position to help me or advise or mentor me on how I can do this, [please get in contact](3rp2mzocr@mozmail.com)!
 
