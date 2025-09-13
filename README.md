@@ -1,4 +1,4 @@
-- 👋 Hi, I’m .. David Craddock (@wordswords) [https://www.davidcraddock.net](https://www.davidcraddock.net)
+- 👋 Hi, I’m .. David Craddock (@wordswords) [https://DavidCraddock.net](https://DavidCraddock.net)
 - 👔 My current Resume/CV.. is here [https://wordswords.github.io/dpc-resume/CV.html](https://wordswords.github.io/dpc-resume/CV.html)
 - 👀 I’m interested in .. Cyber Security, GenAI, VIM, DevOps, CLIs, software automation, complex test architecture, Linux.
 - 🌱 I’m currently learning .. [My GoodReads Profile](https://www.goodreads.com/review/list/22437975-david?shelf=currently-reading)
