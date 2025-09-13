@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on .. any of my repositories that you find useful. Feel free to put in a pull request!
 - 📫 How to reach me .. send an email to: 3rp2mzocr@mozmail.com
 
+In my professional life, I am attempting to pivot from my previous 20 year software career where I reached 'Principal Software Enginer' level, into software-related Cyber Security roles, such as red-team, purple team, vuln discovery and security research. If you are in a position to help me or advise on how I can do this, [please get in contact](3rp2mzocr@mozmail.com)!
 
 I spent a lot of my spare time working on hobbyist technical projects to learn and build cool stuff for myself and my family, some of which are open-source.   My current main open-source 'hobby project' is vWorkbench, see: [https://davidcraddock.net/vworkbench/](https://davidcraddock.net/vworkbench/)
 
