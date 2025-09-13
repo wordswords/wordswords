@@ -5,9 +5,7 @@
 - 📫 How to reach me .. send an email to: 3rp2mzocr@mozmail.com
 
 
-
-- I spent a lot of my spare time working on hobbyist technical projects to learn and build cool stuff for myself and my family, some of which are open-source. 
-- My current main open-source 'hobby project' is vWorkbench, see: [https://davidcraddock.net/vworkbench/](https://davidcraddock.net/vworkbench/)
+I spent a lot of my spare time working on hobbyist technical projects to learn and build cool stuff for myself and my family, some of which are open-source.   My current main open-source 'hobby project' is vWorkbench, see: [https://davidcraddock.net/vworkbench/](https://davidcraddock.net/vworkbench/)
 
 <!---
 wordswords/wordswords is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
