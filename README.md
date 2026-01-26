@@ -7,6 +7,8 @@
 
 In my professional life, I am attempting to pivot from my previous 20-year software career, in which I reached 'Principal Software Enginer' level, into a software-related Cyber Security role, such as red team, purple team, vuln discovery and security research. If you are in a position to help, offer advice, or mentor me in doing this, [please get in contact](mailto:3rp2mzocr@mozmail.com)!
 
+Currently my occupation is 'post grad immature mature student' which in effect means I am doing silly amounts of studying, currently working on two post-grad courses at once, one at Imperial College London in AI/ML and one Cyber Security masters degree at Royal Holloway, University of London.
+
 I spend a lot of my spare time working on hobbyist technical projects to learn and build cool stuff for myself and my family, some of which are open-source.   My current main open-source 'hobby project' is vWorkbench, see: [https://davidcraddock.net/vworkbench/](https://davidcraddock.net/vworkbench/)
 
 <!---
