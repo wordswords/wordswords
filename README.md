@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Craddock (@wordswords) [https://DavidCraddock.net](https://DavidCraddock.net).
 - 🔬 I founded Straylight Resarch Ltd in the UK, which does R&D on GenAI in Cyber Security [https://straylightresearch.ai](https://straylightresearch.ai).
-- 🧠 I'm currently studying: Professional Certificate in AI/ML at Imperial College London AND a MSc in Cyber Security from Royal Holloway, University of London, both remotely. 
+- 🧠 I'm currently studying: A 6-month maths-heavy Professional Certificate in AI/ML at Imperial College London AND a MSc in Cyber Security from Royal Holloway, University of London, both remotely. 
 - 👔 My current Resume/CV.. is here [https://github.com/wordswords/dpc-resume/blob/master/CV.pdf](https://github.com/wordswords/dpc-resume/blob/master/CV.pdf).
 - 👀 I’m interested in .. Cyber Security, AI/ML, GenAI, VIM, DevOps, CLIs, software automation, complex test architecture, Linux.
 - 💞️ I’m looking to collaborate on .. any of my repositories that you find useful. Feel free to put in a pull request!
